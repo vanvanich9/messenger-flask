@@ -1,0 +1,40 @@
+.auth_form {
+    width: 400px;
+    margin: auto;
+    margin-top: 15%;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    color: white
+}
+
+.header {
+    padding-top: 10px;
+    padding-right: 20px;
+    text-align: right;
+    width: 100%;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid black;
+    margin: 1em 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("cwevjvss1g8csoooogskogk8k.jpg");
+}
+
+
+.signup_form {
+    width: 400px;
+    margin: auto;
+    margin-top: 10%;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    color: white
+}
